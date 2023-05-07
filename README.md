@@ -1,5 +1,5 @@
 # Income Data Analysis
-This repository contains a collection of scripts and data for analyzing income data from a source:   https://oscarbaruffa.com/messy/.
+This repository contains a collection of scripts and data for analyzing income data from a source:   https://docs.google.com/spreadsheets/d/1IPS5dBSGtwYVbjsfbaMCYIWnOuRmJcbequohNxCyGVw/edit?resourcekey#gid=1625408792 .
 
 
 # Introduction
