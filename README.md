@@ -19,7 +19,7 @@ This project aims to provide a comprehensive analysis of income data from around
 - get sorted and printed unique values of the 'working_sector' column
 - searched for similar-looking words
 -  extract names that contain 'similar word', regardless of the case'
-- '''define a function to create the 'sector' column'
+- Define a function to create the 'sector' column'
 -  remove any special characters
 7. Adding annual salary and compensation as annual income making their data types the same. 
 8. Changing the currency column to uppercase with a respective abbreviation. Null values here were dealt with (first by coding and then manually) from the other_currency column and their respective working_country column.
@@ -28,7 +28,7 @@ This project aims to provide a comprehensive analysis of income data from around
 11. By following the same step in 6, we corrected the working country name and start the country name with the first letter uppercase and the remaining lowercase. I keep USA, UAE and UK in the uppercase.
 12. In the overall_experience column I removed the term 'years' from it. 
 13. I filled the null values with respective appropriate values. For e.g. in the gender column, if it was null, i replaced it with a 'not-mentioned' description. 
-14. I drop the unnecessary column for our visualization. 
+14. I drop the unnecessary column for the visualization. 
 
 # Data Analysis
 I have not done the significant data analysis here. However, I have used mean values in order to figure out the annual income in each country. 
